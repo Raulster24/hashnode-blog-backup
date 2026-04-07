@@ -24,6 +24,8 @@ The Traditional quality model will always have these problems unless the develop
 
 **Shift Left Testing** and **Continuous Testing** are the exact two disciplines that directly address everything broken about the traditional model.
 
+Let's see each of these in detail.
+
 ## Shift Left Is Not about Moving Testers Earlier
 
 ![](https://cdn.hashnode.com/uploads/covers/69c55e5f10e664c5daf8a077/cd271301-4ba5-4db5-aa7c-58973bbd111c.png align="center")
