@@ -5,6 +5,7 @@ seoDescription: "The test pyramid was built for deterministic software. LLM syst
 datePublished: 2026-05-08T13:17:30.795Z
 cuid: cmowxwkko001t2em7big53r7j
 slug: the-test-pyramid-doesn-t-survive-contact-with-an-llm
+cover: https://cdn.hashnode.com/uploads/covers/69c55e5f10e664c5daf8a077/3b7057d4-a77c-4c45-93e6-3ba3c8961731.jpg
 tags: ai, software-testing, quality-engineering, llm, ai-safety
 
 ---
