@@ -5,7 +5,7 @@ seoDescription: "If AI is going to execute most of what quality engineering used
 datePublished: 2026-05-11T11:45:42.486Z
 cuid: cmp14y2c4006h2dlcg831dj4e
 slug: when-ai-runs-the-tests-what-is-the-quality-engineer-for
-cover: https://cdn.hashnode.com/uploads/covers/69c55e5f10e664c5daf8a077/022d7466-9ff7-4fef-a970-a583572386f2.png
+cover: https://cdn.hashnode.com/uploads/covers/69c55e5f10e664c5daf8a077/1f635dd8-58fd-4876-8b4b-8124aaee1509.jpg
 tags: ai, quality-assurance, quality-engineering
 
 ---
